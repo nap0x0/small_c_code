@@ -1,2 +1,2 @@
-# small_c_code
-These are some small C code.
+# small_c_codes
+These are some small C codes.
