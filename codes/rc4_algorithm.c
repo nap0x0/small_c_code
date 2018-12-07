@@ -63,7 +63,7 @@ int main(int argc ,char ** argv){
 
     /*
     //str2binary test
-    char data[]= "salma";
+    char data[]= "this is a test data";
     printf("%s\n",str2binary(data));
     */
 
